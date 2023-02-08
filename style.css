@@ -95,7 +95,7 @@ For instance, if you want a responsive container, you can build it like this:
 
 /*
 ⚠ As with if statements in Ruby, order matters!
-If several conditions are true, the last CSS rule will be applied.
+If several conditions are true, the last CSS rule will be  applied.
 */
 
 @media (max-width: 960px) {
